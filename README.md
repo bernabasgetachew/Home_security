@@ -6,6 +6,12 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+Features:
+   - visitor face detection and recognition.
+   - Access permit or deny.
+   - tamper/intruder detection alert.
+   - Used for IoT project to monitor microcontroller based project.
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
