@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "763164912972",
+    "project_id": "integrated-home-b9159",
+    "storage_bucket": "integrated-home-b9159.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763164912972:android:6a41e2c318681b78ef73e9",
+        "android_client_info": {
+          "package_name": "com.example.integrated_home"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZp44n49WBwyiOIZ8ukpHO60m-NJb7ZI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
